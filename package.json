@@ -46,7 +46,7 @@
     "restful",
     "api"
   ],
-  "repository": "https://github.com/codecapers/mongodb-rest.git",
+  "repository": "https://github.com/thisistaimur/mongodb-rest.git",
   "directories": {
     "lib": "./lib"
   },
