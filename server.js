@@ -38,7 +38,7 @@ var defaultLogger = {
 var defaultConfig = {
     db: 'https://introfs-js-mlu.herokuapp.com/heroku_wkgp9q03/test1',
     server: {
-        port: 3000,
+        port: 5000,
         address: "0.0.0.0"
     },
     accessControl: {
